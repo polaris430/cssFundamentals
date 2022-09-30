@@ -1,0 +1,21 @@
+body {
+  background-color: beige;
+}
+
+.icon {
+  color: red;
+  font-size: 40px;
+}
+
+h2 {
+  color: blueviolet;
+  font-size: 30px;
+}
+
+p {
+  color: brown;
+}
+
+.container p {
+  color: black;
+}
